@@ -1,4 +1,4 @@
-# Listas de geo sioque >:D
+# Listas de geo >:D
 
-* [Inversión](./Inversión_EricRansom.pdf)
-* [Mixtilineares](./Mixtilineares_EricRansom.pdf)
+* [Inversión](./Inversión.pdf)
+* [Mixtilineares](./Mixtilineares.pdf)
