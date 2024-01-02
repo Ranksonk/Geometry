@@ -23,7 +23,7 @@
 * [Introduction to Geometry](./Introducción_a_Geometría.pdf)
   - [Orthocenter](./Ortocentros_Sinaloa.pdf)
 
-# My first and not so good looking handouts:
+# My first handouts which are not so good-looking:
 
 * [Cross Ratio and Harmonic Bundles](./Razón_Cruzada_Sinaloa.pdf)
 * [Incenter and Excenter](./Incentros_Sinaloa.pdf)
