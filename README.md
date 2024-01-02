@@ -14,7 +14,7 @@
 # Handouts in progress:
 
 * [Involutions](./Involuciones.pdf)
-* [Moving Points III](./Moving_points_III.pdf)
+* [Moving Points / Degree of Polynomials](./Moving_points_III.pdf)
 * [Cross Ratio and Harmonic Bundles](./Armónicos_y_Razón_Cruzada.pdf)
 * [Trigonometry](./Trigonometría.pdf)
 * [Spiral Similarity and Complete Quadrilaterals](./Rotohomotecia_y_Cuadriláteros_Completos.pdf)
